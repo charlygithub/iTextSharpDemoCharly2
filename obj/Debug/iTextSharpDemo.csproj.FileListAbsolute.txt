@@ -1,0 +1,10 @@
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\bin\Debug\iTextSharpDemo.exe.config
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\bin\Debug\iTextSharpDemo.exe
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\bin\Debug\iTextSharpDemo.pdb
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\bin\Debug\itextsharp.dll
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\obj\Debug\iTextSharpDemo.csprojResolveAssemblyReference.cache
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\obj\Debug\iTextSharpDemo.Form1.resources
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\obj\Debug\iTextSharpDemo.Properties.Resources.resources
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\obj\Debug\iTextSharpDemo.csproj.GenerateResource.Cache
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\obj\Debug\iTextSharpDemo.exe
+c:\users\roberto.torres\documents\visual studio 2012\Projects\iTextSharpDemo\iTextSharpDemo\obj\Debug\iTextSharpDemo.pdb
